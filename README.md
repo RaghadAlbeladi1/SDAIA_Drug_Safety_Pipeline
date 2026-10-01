@@ -17,6 +17,10 @@ An end-to-end data pipeline that ingests **100,000 drug side-effect reports**, p
 
 Only trusted data is used to build the final outputs: **analytics** (Gold layer) and a **RAG assistant** that answers drug-safety questions.
 
+<p align="center">
+  <img src="png.png" alt="SDAIA Drug Safety Pipeline" width="600">
+</p>
+
 ---
 
 ## 2. Problem Description
