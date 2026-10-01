@@ -1,4 +1,6 @@
 # SDAIA Drug Safety Pipeline
+<img width="280" height="250" alt="image" src="https://github.com/user-attachments/assets/25673773-c5ee-43b0-853d-f58da44ad9ff" />
+
 ### Trusted Lakehouse for Drug Side-Effect Monitoring
 
 > This project was completed as the final project of the **SDAIA Academy** training program **"Modern Data Engineering for AI Systems"**.
@@ -199,6 +201,6 @@ Two Gold tables built **only from trusted Silver data**:
 
 ---
 ## 12. GitHub Repository
-
 - **SDAIA Academy (GitHub):** 🔗 https://github.com/SDAIAAcademy
 - **SDAIA Official Website:**  https://sdaia.gov.sa
+<img width="280" height="250" alt="image" src="https://github.com/user-attachments/assets/0ff89d43-d0b9-4bb0-b785-95bcad8e3267" />
