@@ -1,5 +1,7 @@
-<img width="280" height="250" alt="image" src="https://github.com/user-attachments/assets/25673773-c5ee-43b0-853d-f58da44ad9ff" />
+<img width="280" height="250" alt="image" src="https://github.com/user-attachments/assets/25673773-c5ee-43b0-853d-f58da44ad9ff" /> 
+
 # SDAIA Drug Safety Pipeline
+
 ### Trusted Lakehouse for Drug Side-Effect Monitoring
 
 > This project was completed as the final project of the **SDAIA Academy** training program **"Modern Data Engineering for AI Systems"**.
