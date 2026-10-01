@@ -198,7 +198,8 @@ Two Gold tables built **only from trusted Silver data**:
 - This project is for **educational purposes only** and does not replace advice from a doctor or pharmacist.
 
 ---
-
 ## 12. GitHub Repository
 
-🔗 https://github.com/RaghadAlbeladi1/SDAIA_Drug_Safety_Pipeline
+- **Project Repository:** 🔗 https://github.com/RaghadAlbeladi1/SDAIA_Drug_Safety_Pipeline
+- **SDAIA Academy (GitHub):** 🔗 https://github.com/SDAIAAcademy
+- **SDAIA Official Website:**  https://sdaia.gov.sa
