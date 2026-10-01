@@ -200,6 +200,5 @@ Two Gold tables built **only from trusted Silver data**:
 ---
 ## 12. GitHub Repository
 
-- **Project Repository:** 🔗 https://github.com/RaghadAlbeladi1/SDAIA_Drug_Safety_Pipeline
 - **SDAIA Academy (GitHub):** 🔗 https://github.com/SDAIAAcademy
 - **SDAIA Official Website:**  https://sdaia.gov.sa
